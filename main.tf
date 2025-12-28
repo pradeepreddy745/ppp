@@ -1,6 +1,7 @@
 #this is the actual infrastructure
 #adgvadfasdf
 #sdfhgdfg
+#hmgbvjm
 resource "azurerm_resource_group" "rg" {
   name     = "rg-pradeep7"
   location = "canadacentral"
