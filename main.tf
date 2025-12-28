@@ -1,3 +1,4 @@
+#this is the actual infrastructure
 resource "azurerm_resource_group" "rg" {
   name     = "rg-pradeep7"
   location = "canadacentral"
